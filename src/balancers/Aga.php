@@ -1,8 +1,8 @@
 <?php
 
-namespace Mtech\AwsDevops\Balancers;
+namespace Mbyte\AwsDevops\Balancers;
 
-use Mtech\AwsDevops\Log;
+use Mbyte\AwsDevops\Log;
 use Aws\GlobalAccelerator\GlobalAcceleratorClient;
 
 class Aga extends Abs

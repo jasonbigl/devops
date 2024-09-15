@@ -1,6 +1,6 @@
 <?php
 
-namespace Mtech\AwsDevops;
+namespace Mbyte\AwsDevops;
 
 class Client extends Basic
 {
@@ -832,7 +832,7 @@ STRING;
                     "Mr Lee <maxalarm@foxmail.com>",
                 ],
             ],
-            'FromEmailAddress' => 'Mtech Alarm <alarm@maxbytech.com>',
+            'FromEmailAddress' => 'Mbyte Alarm <alarm@maxbytech.com>',
         ]);
     }
 }

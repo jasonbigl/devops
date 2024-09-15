@@ -1,9 +1,9 @@
 <?php
 
-namespace Mtech\AwsDevops;
+namespace Mbyte\AwsDevops;
 
-use Mtech\AwsDevops\Balancers\Aga;
-use Mtech\AwsDevops\Balancers\Route53;
+use Mbyte\AwsDevops\Balancers\Aga;
+use Mbyte\AwsDevops\Balancers\Route53;
 
 class Basic
 {

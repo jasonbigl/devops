@@ -1,6 +1,6 @@
 <?php
 
-namespace Mtech\AwsDevops;
+namespace Mbyte\AwsDevops;
 
 class Log
 {
@@ -33,7 +33,7 @@ class Log
             return;
         }
 
-        $prefix = "[" . date('Y-m-d H:i:s') . "] Mtech\AwsDevops: ";
+        $prefix = "[" . date('Y-m-d H:i:s') . "] Mbyte\AwsDevops: ";
 
         $args[0] = "{$prefix}{$args[0]}";
 
@@ -54,7 +54,7 @@ class Log
             return;
         }
 
-        $prefix = "[" . date('Y-m-d H:i:s') . "] Mtech\AwsDevops: ";
+        $prefix = "[" . date('Y-m-d H:i:s') . "] Mbyte\AwsDevops: ";
 
         $args[0] = "{$prefix}{$args[0]}";
 

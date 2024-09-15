@@ -1,5 +1,5 @@
 {
-    "name": "mtech/aws-devops",
+    "name": "mbyte/devops",
     "type": "library",
     "autoload": {
         "psr-4": {
